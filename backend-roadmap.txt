@@ -3,3 +3,5 @@ Progess belajar saya :
 -Css
 -PHP
 -OOP
+-MVC
+-Laravel
