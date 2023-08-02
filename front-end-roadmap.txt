@@ -3,5 +3,6 @@ Front-end roadmap saya :
 - Css
 - Javascript
   *Angular
+  *vue
 - Dom
 - NodeJS
